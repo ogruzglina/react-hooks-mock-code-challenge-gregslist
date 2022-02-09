@@ -33,7 +33,7 @@ header h1 {
   flex: 1 1 auto;
   margin: 0 1rem;
   display: flex;
-  justify-content: center;
+  justify-content:space-between
 }
 
 .searchbar input {
@@ -52,6 +52,8 @@ header h1 {
   border: 1px solid #ccc;
   border-radius: 3px;
 }
+
+
 
 main {
   padding: 0 1rem;
